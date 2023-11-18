@@ -46,23 +46,23 @@ entries:
     folderitems:
 
     - title: Call for Papers
-      url: /FORMATS_call_for_papers.html
+      url: /QEST_FORMATS_call_for_papers.html
       output: web
       
     - title: Accepted Papers
-      url: /FORMATS_accepted_papers.html
+      url: /QEST_FORMATS_accepted_papers.html
       output: web
 
     - title: Programme
-      url: /FORMATS_programme.html
+      url: /QEST_FORMATS_programme.html
       output: web
 
     - title: Committees
-      url: /FORMATS_committees.html
+      url: /QEST_FORMATS_committees.html
       output: web
 
     - title: Artifact Evaluation Process
-      url: /FORMATS_artifact_evaluation_process.html
+      url: /QEST_FORMATS_artifact_evaluation_process.html
       output: web
 
   #- title: Qest

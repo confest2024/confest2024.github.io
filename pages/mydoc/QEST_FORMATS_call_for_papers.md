@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers"
 sidebar: mydoc_sidebar
-permalink: FORMATS_call_for_papers.html
+permalink: QEST_FORMATS_call_for_papers.html
 toc: false 
 folder: mydoc
 ---

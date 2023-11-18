@@ -56,31 +56,31 @@
   
   
   <url>
-    <loc>http://localhost:4000/FORMATS_accepted_papers.html</loc>
+    <loc>http://localhost:4000/QEST_FORMATS_accepted_papers.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/FORMATS_artifact_evaluation_process.html</loc>
+    <loc>http://localhost:4000/QEST_FORMATS_artifact_evaluation_process.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/FORMATS_call_for_papers.html</loc>
+    <loc>http://localhost:4000/QEST_FORMATS_call_for_papers.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/FORMATS_committees.html</loc>
+    <loc>http://localhost:4000/QEST_FORMATS_committees.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/FORMATS_programme.html</loc>
+    <loc>http://localhost:4000/QEST_FORMATS_programme.html</loc>
   </url>
   
   

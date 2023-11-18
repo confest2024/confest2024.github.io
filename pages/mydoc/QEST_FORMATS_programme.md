@@ -1,7 +1,7 @@
 ---
-title: "Accepted Papers"
+title: "Programme"
 sidebar: mydoc_sidebar
-permalink: FORMATS_accepted_papers.html
+permalink: QEST_FORMATS_programme.html
 toc: false 
 folder: mydoc
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Committees"
 sidebar: mydoc_sidebar
-permalink: FORMATS_committees.html
+permalink: QEST_FORMATS_committees.html
 toc: false 
 folder: mydoc
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Artifact Evaluation Process"
 sidebar: mydoc_sidebar
-permalink: FORMATS_artifact_evaluation_process.html
+permalink: QEST_FORMATS_artifact_evaluation_process.html
 toc: false 
 folder: mydoc
 ---
