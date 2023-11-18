@@ -4,25 +4,25 @@ sidebar: mydoc_sidebar
 permalink: index.html
 toc: false 
 ---
-## September 9-13, 2024
+## In Calgary, Canada during September 9-13, 2024
 {% include image.html file="index.jpg" %}  
 
 
 
 ### Conference
-CONFEST is an umbrella conference comprising four international meetings:  
-* CONCUR​
-* FMICS​code
-* FORMATS
-* QEST
-
+Welcome to CONFEST 2024! Join us for a dynamic gathering of ideas and innovation, featuring three renowned conferences: CONCUR, FORMATS, and QEST, organized into two engaging tracks: QEST/FORMATS and CONCUR. Designed to cover a broad spectrum of computing research and interests, CONFEST 2024 goes beyond just conferences. Participate in our high-value workshops for in-depth learning and practical experience. Whether you're deepening your expertise or expanding your professional network, CONFEST 2024 is the place to be!
 ### Date
 
 The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 
-### Organization Committee
+### Organizing Committee
 * Diwakar Krishnamurthy, University of Calgary, Canada (General co-chair)
 * Yasaman Amannejad, Mount Royal University, Canada (General co-chair)
+* Khosro Salmani, Mount Royal University, Canada (Registration chair)
+* Mariam Elhussein, Mount Royal University, Canada (Publication chair)
+* Alan Fedoruk, Mount Royal University, Canada (Local Arrangement chair)
+* Steve Drew, University of Calgary, Canada (Workshop co-chair)
+* Joydeep Mukherjee, California Polytechnic State University, United States (Workshop co-chair)
 * Somayeh Modaberi, University of Calgary, Canada (Web chair)
 
 ### Sponsors
