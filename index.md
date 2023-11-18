@@ -25,7 +25,9 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 * Joydeep Mukherjee, California Polytechnic State University, United States (Workshop co-chair)
 * Somayeh Modaberi, University of Calgary, Canada (Web chair)
 
-### Sponsors
 
-{% include image.html file="Horizontal_Schulich_School_of_Engineering_Logo.png" max-width="400"%} 
-{% include image.html file="MRU_CAL_ALTA_logo_RGB.png" max-width="200"%} 
+### Sponsors
+<div style="display: flex; justify-content: center; align-items: center;">
+    {% include image.html file="Horizontal_Schulich_School_of_Engineering_Logo.png" max-width="300" %}
+    {% include image.html file="MRU_CAL_ALTA_logo_RGB.png" max-width="200" %}
+</div>
