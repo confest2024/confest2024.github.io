@@ -41,7 +41,7 @@ The main responsibility for organizing the workshop goes to the workshop organiz
 * workshop publicity (possibly including call for papers, submission, and review process)
 * scheduling of workshop activities in collaboration with the CONFEST workshop chair.
 
- Proposals should be sent to <ins>Joydeep Mukherjee/Steve Drew</ins> (workshop chairs).
+ Proposals should be sent to <ins>Joydeep Mukherjee/Steve Drew</ins> (Workshop chairs).
 
 ### Important dates
 * Submission deadline: February 16, 2024
