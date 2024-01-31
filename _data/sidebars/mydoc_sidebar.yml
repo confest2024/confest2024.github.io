@@ -45,25 +45,25 @@ entries:
     output: web
     folderitems:
 
-    - title: Call for Papers
-      url: /QEST_FORMATS_call_for_papers.html
-      output: web
-      
-    - title: Accepted Papers
-      url: /QEST_FORMATS_accepted_papers.html
-      output: web
-
-    - title: Programme
-      url: /QEST_FORMATS_programme.html
-      output: web
-
-    - title: Committees
-      url: /QEST_FORMATS_committees.html
-      output: web
-
-    - title: Artifact Evaluation Process
-      url: /QEST_FORMATS_artifact_evaluation_process.html
-      output: web
+     - title: QEST + FORMATS Home
+       url: /QEST_FORMATS.html
+       output: web
+  #    
+  #  - title: Accepted Papers
+  #    url: /QEST_FORMATS_accepted_papers.html
+  #    output: web
+#
+ #   - title: Programme
+ #     url: /QEST_FORMATS_programme.html
+  #    output: web
+#
+ #   - title: Committees
+  #    url: /QEST_FORMATS_committees.html
+   #   output: web
+#
+ #   - title: Artifact Evaluation Process
+  #    url: /QEST_FORMATS_artifact_evaluation_process.html
+   #   output: web
 
   #- title: Qest
   #  output: web, pdf

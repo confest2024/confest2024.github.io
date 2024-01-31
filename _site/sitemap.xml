@@ -56,6 +56,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/QEST_FORMATS.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/QEST_FORMATS_accepted_papers.html</loc>
   </url>
   
