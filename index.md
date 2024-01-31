@@ -10,7 +10,8 @@ toc: false
 
 
 ### Conference
-Welcome to CONFEST 2024! Join us for a dynamic gathering of ideas and innovation, featuring three renowned conferences: CONCUR, FORMATS, and QEST, organized into two engaging tracks: QEST/FORMATS and CONCUR. Designed to cover a broad spectrum of computing research and interests, CONFEST 2024 goes beyond just conferences. Participate in our high-value workshops for in-depth learning and practical experience. Whether you're deepening your expertise or expanding your professional network, CONFEST 2024 is the place to be!
+<p align="justify">Welcome to CONFEST 2024! Join us for a dynamic gathering of ideas and innovation, featuring three renowned conferences: CONCUR, FORMATS, and QEST, organized into two engaging tracks: QEST/FORMATS and CONCUR. Designed to cover a broad spectrum of computing research and interests, CONFEST 2024 goes beyond just conferences. Participate in our exciting array of co-located workshops that complement the main conference programs. Whether you are learning about exciting advances in concurrency theory and quantitative evaluation of systems or expanding your research network, CONFEST 2024 is the place to be!</p>
+
 ### Date
 
 The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
@@ -29,5 +30,5 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 ### Sponsors
 <div style="display: flex; justify-content: center; align-items: center;">
     {% include image.html file="Horizontal_Schulich_School_of_Engineering_Logo.png" max-width="300" %}
-    {% include image.html file="MRU_CAL_ALTA_logo_RGB.png" max-width="200" %}
+    {% include image.html file="MRU_Faculty of Science and Technology_CMYK.jpg" max-width="400" %}
 </div>

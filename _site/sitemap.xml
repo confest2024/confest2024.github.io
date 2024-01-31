@@ -74,7 +74,19 @@
   
   
   <url>
+    <loc>http://localhost:4000/QEST_FORMATS_call_for_papers_bb.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/QEST_FORMATS_committees.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/QEST_FORMATS_committees_b.html</loc>
   </url>
   
   

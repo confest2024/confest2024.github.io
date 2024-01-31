@@ -41,7 +41,7 @@ entries:
       url: /CONCUR_awards.html
       output: web
 
-  - title: QUEST/FORMATS
+  - title: QEST/FORMATS
     output: web
     folderitems:
 

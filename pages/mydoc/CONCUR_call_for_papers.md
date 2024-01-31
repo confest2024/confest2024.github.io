@@ -9,12 +9,12 @@ folder: mydoc
 CONCUR 2024 solicits high quality papers reporting research results and/or experience related to the topics mentioned below. 
 * All papers must be original, unpublished, and not submitted for publication elsewhere.
 * Each paper will undergo a thorough review process. The paper may be supplemented with a clearly marked appendix, which will be reviewed at the discretion of the program committee.
-* The CONCUR 2023 proceedings will be published by LIPIcs (link TBD).
-* Papers must be submitted electronically as PDF files via HotCRP (link TBD). Submissions follow a light double blind process. 
+* The CONCUR 2024 proceedings will be published by LIPIcs (link TBD).
+* Papers must be submitted electronically as PDF files via HotCRP <a href="https://concur2024.hotcrp.com/" target="_blank">HotCRP</a>. Submissions follow a light double blind process. 
 * Papers must not exceed 14 pages (excluding references and clearly marked appendices) using the LIPIcs style.
 
 ### Important dates (anywhere on Earth)
-* Paper Submission: April 25, 2024
+* Paper Submission: April 26, 2024
 * Rebuttal Response: June 4-6, 2024
 * Notification: June 21, 2024
 * Camera Ready: July 12, 2024
