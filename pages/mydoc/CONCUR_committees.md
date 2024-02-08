@@ -37,6 +37,7 @@ folder: mydoc
 * Orna Kupferman, Hebrew University
 * Roland Meyer, TU Braunschweig
 * Rupak Majumdar **chair**, Max Planck Institute for Software Systems
+* S Akshay, Indian Institute of Technology Bombay
 * Sadegh Soudjani, Newcastle
 * Sebastian Junges, Nijmegen
 * Stefan Milius, FAU
