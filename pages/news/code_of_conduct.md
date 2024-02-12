@@ -21,4 +21,4 @@ We expect all participants to abide by the following:
 Participants violating the standards above may be sanctioned or expelled from the meeting, at the discretion of the conference organizers. If you believe that you or anyone at CONFEST has been subjected to any type of misconduct by another attendee, you are urged to report the relevant facts promptly. Prompt reporting is very important! Reports will be followed up quickly, with further investigation conducted where needed, to confirm facts or resolve disputed facts. We will strive to keep the identity of individuals making reports as confidential as possible.  
 
 You should direct misconduct reports to someone from the list below:
-* TBD
+* [Confest2024@gmail.com](mailto:Confest2024@gmail.com)

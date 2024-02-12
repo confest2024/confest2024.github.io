@@ -13,7 +13,7 @@ The purpose of the workshops is to provide participants with a friendly, stimula
 * discussing new ideas on emerging research areas, challenging problems, and industrial applications,
 * encouraging inter-disciplinary research between industry and academia, and fostering opportunities for young and prospective researchers.
 
-### Organisation
+### Organization
 CONFEST’24 is planned as a physical, in-person event, with some support for remote participation. In a limited number of cases, there will be remote-participation support for speakers and for other participants who are unable to come. Please take this into account when preparing a workshop proposal and communicate to participants requiring such support that they should contact the organizers of CONFEST’24 explaining their case.
 
 We will provide the following to workshop organizers:
