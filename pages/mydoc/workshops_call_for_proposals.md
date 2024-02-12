@@ -47,5 +47,5 @@ The main responsibility for organizing the workshop goes to the workshop organiz
 * Submission deadline: February 23, 2024
 * Notification: March 08, 2024
 * Program of the workshops ready: August 16, 2024
-* CONFEST conferences: September 9-13, 2023
+* CONFEST conferences: September 9-13, 2024
 
