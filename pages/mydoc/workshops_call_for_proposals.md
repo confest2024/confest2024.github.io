@@ -41,11 +41,11 @@ The main responsibility for organizing the workshop goes to the workshop organiz
 * workshop publicity (possibly including call for papers, submission, and review process)
 * scheduling of workshop activities in collaboration with the CONFEST workshop chair.
 
- Proposals should be sent to <ins>Joydeep Mukherjee/Steve Drew</ins> (Workshop chairs).
+ Proposals should be sent to Workshop chairs (<ins>[Joydeep Mukherjee](mailto:jmukherj@calpoly.edu)</ins> or <ins>[Steve Drew](mailt:steve.drew@ucalgary.ca)</ins>).
 
 ### Important dates
-* Submission deadline: February 16, 2024
-* Notification: March 1<sup>st</sup>, 2024
+* Submission deadline: February 23, 2024
+* Notification: March 08, 2024
 * Program of the workshops ready: August 16, 2024
-* CONFEST conferences: September 18-23, 2023
+* CONFEST conferences: September 9-13, 2023
 
