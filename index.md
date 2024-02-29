@@ -24,6 +24,7 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 * Alan Fedoruk, Mount Royal University, Canada (Local Arrangement chair)
 * Steve Drew, University of Calgary, Canada (Workshop co-chair)
 * Joydeep Mukherjee, California Polytechnic State University, United States (Workshop co-chair)
+* Maryam Elahi, Mount Royal University, Canada (Publicly chair)
 * Somayeh Modaberi, University of Calgary, Canada (Web chair)
 
 
