@@ -30,7 +30,7 @@ folder: mydoc
 * Ilaria Castellani, INRIA Sophia-Antipolis
 * James Worrell, Oxford
 * Jana Wagemaker, Reykjavik
-* Kirstin Peters, TU Darmstadt
+* Kirstin Peters, Augsburg University
 * Klaus v. Gleissenthall, Vrije Uni Amsterdam
 * Michele Boreale, Florence
 * Nadia Labai, AWS
