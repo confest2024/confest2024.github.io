@@ -15,16 +15,16 @@ folder: mydoc
 * Andreas Pavlogiannis, Aarhus
 * Antonín Kucera, Masaryk University
 * Ashutosh Trivedi, UC Boulder
-* Barbara Koenig, Uni Duisberg-Essen
+* Barbara König, University of Duisburg-Essen
 * Benjamin Kaminski, Saarland
 * Cinzia Di Giusto, Univ of Nice
 * Colin Gordon, Drexel
-* Constantin Enea, INRIA
+* Constantin Enea, Ecole Polytechnique, France
 * Dan Ghica, Huawei
 * Dana Fisman, Ben-Gurion University
 * Daniele Gorla, University of Rome La Sapienza
 * Davide Sangiorgi, University of Bologna
-* Emanuele D'Osualdo, MPI-SWS
+* Emmanuele d’Osualdo, University of Konstanz
 * Frits Vaandrager, Radboud University
 * Guillermo Pérez, Antwerp
 * Ilaria Castellani, INRIA Sophia-Antipolis
@@ -38,7 +38,7 @@ folder: mydoc
 * Roland Meyer, TU Braunschweig
 * Rupak Majumdar **chair**, Max Planck Institute for Software Systems
 * S Akshay, Indian Institute of Technology Bombay
-* Sadegh Soudjani, Newcastle
+* Sadegh Soudjani, MPI-SWS
 * Sebastian Junges, Nijmegen
 * Stefan Milius, FAU
 * Subhajit Roy, IIT Kanpur

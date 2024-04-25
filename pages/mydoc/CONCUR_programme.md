@@ -1,7 +1,7 @@
 ---
-title: "Programe"
+title: "Programme"
 sidebar: mydoc_sidebar
-permalink: CONCUR_programe.html
+permalink: CONCUR_programme.html
 toc: false 
 folder: mydoc
 ---

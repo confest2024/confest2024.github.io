@@ -29,8 +29,8 @@ entries:
       url: /CONCUR_accepted_papers.html
       output: web
 
-    - title: Programe
-      url: /CONCUR_programe.html
+    - title: Programme
+      url: /CONCUR_programme.html
       output: web
 
     - title: Committees

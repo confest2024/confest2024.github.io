@@ -14,7 +14,8 @@ CONCUR 2024 solicits high quality papers reporting research results and/or exper
 * Papers must not exceed 14 pages (excluding references and clearly marked appendices) using the LIPIcs style.
 
 ### Important dates (anywhere on Earth)
-* Paper Submission: April 26, 2024
+* Paper Submission: April 26, 2024  
+Submissions received by this deadline may be updated until April 29, 2024 (AoE)
 * Rebuttal Response: June 4-6, 2024
 * Notification: June 21, 2024
 * Camera Ready: July 12, 2024
