@@ -34,7 +34,7 @@ Tel (403) 289-0241 Toll Free (888) 774-7716 Fax (403) 220-1820
 **Reservation Procedure:**
 Individuals can make reservations:
 - Directly with the Hotel at **<u>403-289-0241</u> option 0 for Front Desk** and reference the rate code **“Engineering Conference”**
-- Online at <a href="https://www.bestwestern.com/en_US/book/hotel-rooms.61027.html?groupId=4Q6BN9D6)" target="_blank">Best Western Booking</a>
+- Online at <a href="https://www.bestwestern.com/en_US/book/hotel-rooms.61027.html?groupId=4Q6BN9D6" target="_blank">https://www.bestwestern.com/en_US/book/hotel-rooms.61027.html?groupId=4Q6BN9D6</a>
 
 Please be prepared to give a credit card number to guarantee your arrival. A matching valid ID will be required at arrival. Please contact the Front Desk if a credit card authorization is required. Cash and Debit not accepted.
 
