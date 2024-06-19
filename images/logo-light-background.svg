@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="709" height="180" viewBox="0 0 709 180">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 125px;
+        text-anchor: middle;
+        fill: #002e5b;
+        font-family: Poppins;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: #ff3833;
+      }
+    </style>
+  </defs>
+  <text id="ThinkBold" class="cls-1" x="358.804" y="140.228"><tspan x="358.804">Think<tspan class="cls-2">B</tspan>old</tspan></text>
+</svg>
