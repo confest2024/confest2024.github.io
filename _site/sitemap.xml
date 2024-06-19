@@ -122,6 +122,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/invited_talks.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/local_information.html</loc>
   </url>
   

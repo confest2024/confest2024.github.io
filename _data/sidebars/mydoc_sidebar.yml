@@ -85,6 +85,14 @@ entries:
       url: /workshops_call_for_proposals.html
       output: web
     
+  - title: Invited Talks
+    output: web
+    folderitems:
+
+    - title: Invited Talks Information  
+      url: /invited_talks.html
+      output: web
+
   #  - title: YR-CONCUR Workshop
   #    url: /workshops_YR-CONCUR_workshop.html
   #    output: web
