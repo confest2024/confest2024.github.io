@@ -93,6 +93,17 @@ entries:
       url: /invited_talks.html
       output: web
 
+  - title: Hotel accommodation
+    output: web
+    folderitems:
+
+    - title: Best Western Plus Village Park Inn
+      url: /Best-Western-Plus-Village-Park-Inn.html
+      output: web
+
+    - title: Aloft Calgary University
+      url: /Aloft-Calgary-University.html
+      output: web
   #  - title: YR-CONCUR Workshop
   #    url: /workshops_YR-CONCUR_workshop.html
   #    output: web
