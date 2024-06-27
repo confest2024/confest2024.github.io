@@ -93,7 +93,7 @@ entries:
       url: /invited_talks.html
       output: web
 
-  - title: Hotel accommodation
+  - title: Hotel Accommodation
     output: web
     folderitems:
 
