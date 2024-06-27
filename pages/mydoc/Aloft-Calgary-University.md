@@ -6,7 +6,7 @@ toc: false
 folder: mydoc
 ---
 
-{% include image.html file="Aloft.jpg" url="http://www.aloftcalgaryuniversity.com" alt="Aloft Calgary University"  %}  
+{% include image.html file="aloft.jpg" url="http://www.aloftcalgaryuniversity.com" alt="Aloft Calgary University"  %}  
 
 ### Attention   
 
