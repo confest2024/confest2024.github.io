@@ -21,7 +21,7 @@ We offer two accommodation options conveniently located next to each other, ensu
 #### [Best Western Plus Village Park Inn](Best-Western-Plus-Village-Park-Inn.html){:target="_blank"}  
 {% include image.html file="BestWesternPlusVillagePark.jpg" url="Best-Western-Plus-Village-Park-Inn.html" alt="Best Western Plus Village Park Inn" max-width="780"%} 
 #### [Aloft Calgary University](Aloft-Calgary-University.html){:target="_blank"} 
- {% include image.html file="Aloft.jpeg" url="Best-Western-Plus-Village-Park-Inn.html" alt="Aloft Calgary University" max-width="680" %}  
+ {% include image.html file="Aloft.jpg" url="Best-Western-Plus-Village-Park-Inn.html" alt="Aloft Calgary University" max-width="680" %}  
 
 
 
