@@ -15,7 +15,10 @@ Best Western Plus Village Park Inn
 ### Hotel Accommodation
 
 We offer two accommodation options conveniently located next to each other, ensuring easy access and comfort for our conference attendees.
-<br>  
+Hotel options:
+* [Best Western Plus Village Park Inn](Best-Western-Plus-Village-Park-Inn.html){:target="_blank"}  
+* [Aloft Calgary University](Aloft-Calgary-University.html){:target="_blank"}  
+
 <b>Please note that hotel rooms should be booked by August 8 to take advantage of the discounted rates.</b>
 
 #### [Best Western Plus Village Park Inn](Best-Western-Plus-Village-Park-Inn.html){:target="_blank"}  
@@ -23,6 +26,8 @@ We offer two accommodation options conveniently located next to each other, ensu
 #### [Aloft Calgary University](Aloft-Calgary-University.html){:target="_blank"} 
  {% include image.html file="aloft.jpg" url="Aloft-Calgary-University.html" alt="Aloft Calgary University" max-width="680" %}  
 
+### Travel Information
+You can find a list of recommended places to visit while you are in Calgary, along with transportation information, [here](things-to-do-in-Calgary.html){:target="_blank"} .
 
 
 

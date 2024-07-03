@@ -104,6 +104,32 @@ entries:
     - title: Aloft Calgary University
       url: /Aloft-Calgary-University.html
       output: web
+    
+  - title: Travel Information
+    output: web
+    folderitems:
+
+    - title: Things to do while visiting Calgary
+      url: /things-to-do-in-Calgary.html
+      output: web
+
+    - title: Exploring the city
+      url: /Exploring-the-city.html
+      output: web
+    - title: Discovering Banff and Canmore
+      url: /Discovering-Banff-and-Canmore.html
+      output: web
+    - title: Beyond Lake Louise
+      url: /Beyond-Lake-Louise.html
+      output: web
+    - title: Exploring to the South and East
+      url: /Exploring-to-the-South-and-East.html
+      output: web
+
+    
+
+
+
   #  - title: YR-CONCUR Workshop
   #    url: /workshops_YR-CONCUR_workshop.html
   #    output: web
