@@ -109,22 +109,13 @@ entries:
     output: web
     folderitems:
 
-    - title: Things to do while visiting Calgary
-      url: /things-to-do-in-Calgary.html
+    - title: Tourist Information
+      url: /Tourist-Information.html
+      output: web
+    - title: Getting Around
+      url: /Getting-Around.html
       output: web
 
-    - title: Exploring the city
-      url: /Exploring-the-city.html
-      output: web
-    - title: Discovering Banff and Canmore
-      url: /Discovering-Banff-and-Canmore.html
-      output: web
-    - title: Beyond Lake Louise
-      url: /Beyond-Lake-Louise.html
-      output: web
-    - title: Exploring to the South and East
-      url: /Exploring-to-the-South-and-East.html
-      output: web
 
     
 

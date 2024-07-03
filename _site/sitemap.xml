@@ -38,12 +38,6 @@
   
   
   <url>
-    <loc>http://localhost:4000/Beyond-Lake-Louise.html</loc>
-  </url>
-  
-  
-  
-  <url>
     <loc>http://localhost:4000/CONCUR_accepted_papers.html</loc>
   </url>
   
@@ -74,19 +68,7 @@
   
   
   <url>
-    <loc>http://localhost:4000/Discovering-Banff-and-Canmore.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/Exploring-the-city.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/Exploring-to-the-South-and-East.html</loc>
+    <loc>http://localhost:4000/Getting-Around.html</loc>
   </url>
   
   
@@ -140,6 +122,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/Tourist-Information.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/all_workshops.html</loc>
   </url>
   
@@ -180,12 +168,6 @@
   
   
   
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/things-to-do-in-Calgary.html</loc>
-  </url>
   
   
   

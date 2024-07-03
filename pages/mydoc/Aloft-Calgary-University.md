@@ -10,8 +10,13 @@ folder: mydoc
 
 ### Attention   
 
-<b align="justify">Please note that hotel rooms should be booked by August 8 to take advantage of the discounted rates.</b>
+<div style="text-align: justify; background-color: yellow;">
+  <b>*** Please note that hotel rooms should be booked by <u>August 8</u> to take advantage of the discounted rates. ***</b>
+</div>
 <br>
+<div style="text-align: justify; background-color: yellow;">
+  <b>*** Reservations can be made via <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1693596963813&key=GRP&app=resvlink" target="_blank">the Marriott website</a> ***</b>
+</div>
 <br>
 <table>
 <colgroup>

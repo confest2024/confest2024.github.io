@@ -9,10 +9,14 @@ folder: mydoc
 
 ### Attention   
 
-<b align="justify">Please note that hotel rooms should be booked by August 8 to take advantage of the discounted rates.</b>
+<div style="text-align: justify; background-color: yellow;">
+  <b>*** Please note that hotel rooms should be booked by <u>August 8</u> to take advantage of the discounted rates. ***</b>
+</div>
 <br>
+<div style="text-align: justify; background-color: yellow;">
+  <b>*** Reservations can be made  <a href="https://www.bestwestern.com/en_US/book/hotel-rooms.61027.html?groupId=4Q6BN9D6" target="_blank"><u>here</u></a> ***</b>
+</div>
 <br>
-
 <table>
 <colgroup>
 <col width="30%" />
