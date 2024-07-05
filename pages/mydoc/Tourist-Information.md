@@ -57,4 +57,4 @@ Banff is a beautiful mountain town in the heart of Banff National Park. There is
 ### Transportation:
 
 - [Brewster Express Schedule and Locations](https://www.banffjaspercollection.com/brewster-express/schedule-locations/){:target="_blank"}
-- [Parkbus Calgary](https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/calgary){:target="_blank"}"
+- [Parkbus Calgary](https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/calgary){:target="_blank"}

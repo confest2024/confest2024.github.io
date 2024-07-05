@@ -129,4 +129,29 @@ folder: mydoc
   <p><strong>A Unifying Categorical View on Nondeterministic Iteration and Tests</strong><br>
   S. Goncharov, T. Uustalu</p>
 </li>
-
+<ul class="list-group">
+  <li class="list-group-item">
+    <p><strong>Causally Deterministic Markov Decision Processes</strong><br>
+    S. Akshay, Tobias Meggendorfer, P.S. Thiagarajan</p>
+  </li>
+  <li class="list-group-item">
+    <p><strong>Reversible Transducers over Infinite Words</strong><br>
+    Luc Dartois, Loïc Germerie-Guizouarn, Paul Gastin, R. Govind, S. Krishna</p>
+  </li>
+  <li class="list-group-item">
+    <p><strong>Centralized vs Decentralized Monitors for Hyperproperties</strong><br>
+    Jana Wagemaker, Luca Aceto, Antonis Achilleos, Elli Anastasiadi, Adrian Francalanza, Daniele Gorla</p>
+  </li>
+  <li class="list-group-item">
+    <p><strong>History-Determinism vs Fair Simulation</strong><br>
+    Udi Boker, Thomas Henzinger, Karoliina Lehtinen, Aditya Prakash</p>
+  </li>
+  <li class="list-group-item">
+    <p><strong>Coinductive Techniques for Checking Satisfiability of Generalized Nested</strong><br>
+    Lara Stoltenow, Barbara König, Sven Schneider, Andrea Corradini, Leen Lambers, Fernando Orejas</p>
+  </li>
+  <li class="list-group-item">
+    <p><strong>Branching Bisimilarity for Processes with Time-outs</strong><br>
+    Gaspard Reghem, Rob J. van Glabbeek</p>
+  </li>
+  

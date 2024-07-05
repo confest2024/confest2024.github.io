@@ -122,6 +122,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/Registration-Information.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/Tourist-Information.html</loc>
   </url>
   
@@ -153,12 +159,6 @@
   
   <url>
     <loc>http://localhost:4000/local_information.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/registrationn.html</loc>
   </url>
   
   
