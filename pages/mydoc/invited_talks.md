@@ -23,6 +23,15 @@ folder: mydoc
 <p align="justify">
 <b>Bio:</b> Dr. Mor Harchol-Balter is the Bruce J. Nelson Professor of Computer Science at Carnegie Mellon. She received her Ph.D. from U.C. Berkeley in 1996 under the direction of Manuel Blum. She joined CMU in 1999, and served as the Head of the PhD program from 2008-2011. She is the SIG Chair for ACM SIGMETRICS. She is a Fellow of both ACM and IEEE, the NSF CAREER award, and several teaching awards, including the Herbert A. Simon Award and Spira Teaching Award. Mor's work focuses on designing new resource allocation policies, including load balancing policies, power management policies, and scheduling policies, for distributed systems. Mor is heavily involved in the SIGMETRICS / PERFORMANCE research community where she has received many paper awards (INFORMS George Nicholson Prize 22, SIGMETRICS 21, SIGMETRICS 19, PERFORMANCE 18, INFORMS APS 18, EUROSYS 16, MASCOTS 16, MICRO 10, SIGMETRICS 03, ITC 03, SIGMETRICS 96). She is the author of two popular textbooks, both published by Cambridge University Press: Performance Analysis and Design of Computer Systems (2013) and Introduction to Probability for Computing (2024). She is also a recipient of dozens of Industrial Faculty Awards including multiple awards from Google, Microsoft, IBM, EMC, Facebook, Intel, Yahoo!, and Seagate. Mor is best known for her enthusiastic keynote talks and her many PhD students, almost all of whom are professors at top academic institutions.</p>
 
+**Title:** Queueing Models for Today's Data Center Jobs
+
+<p align="justify">
+<b>Abstract:</b> Most queueing models assume that a job runs on a single server. But this <I>one-server-per-job</I> model is <I>not</I> a good representation of today's compute jobs.<br>
+
+A typical data center job today occupies multiple cores concurrently, often thousands of cores.  We refer to a job that concurrently occupies multiple cores as a <I>multiserver job</I>.  Unfortunately, very little is known about response time in multiserver job queueing models. We present the first results on response time for multiserver job queueing models. In particular, we propose a new scheduling policy for multiserver jobs, called ServerFilling, and bound its response time.<br>
+
+We also consider today's <I>parallel speedup jobs</I>, which can run on any number of cores, but whose speed depends on the number of cores on which the job is run.  Here it is even more complicated to understand how to best share a limited number of cores among a stream of jobs, each governed by a different speedup function.  We discuss some recent optimality results in this nascent area. </p>
+
 # Dr. Arie Gurfinkel
 [Arie Gurfinkel](https://arieg.bitbucket.io/){:target="_blank"}  
 
