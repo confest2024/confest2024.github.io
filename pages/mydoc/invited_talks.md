@@ -52,5 +52,10 @@ We also consider today's <I>parallel speedup jobs</I>, which can run on any numb
 <p align="justify">
 <b>Bio:</b> Dr. Thomas Wies is an Associate Professor in the NYU Computer Science Department and a member of the Analysis of Computer Systems Group in the Courant Institute. His research focuses on program analysis and verification, automated deduction, concurrent software, and software productivity.</p>
 
+**Title:** Verifying Concurrent Search Structures
 
-
+<p align="justify">
+<b>Abstract:</b> Search structures support the fundamental data storage primitives on key-value pairs: insert a pair, delete by key, search by key, and update the value associated with a key. Concurrent search structures are parallel algorithms to speed access to search structures on multicore and distributed servers. For these data structures to be efficient, the underlying parallel algorithms need to perform fine-grained synchronization between threads. This makes them notoriously difficult to design and implement correctly. Indeed, bugs are routinely found both in actual implementations and in the designs proposed by experts in peer-reviewed publications. Often, these bugs elude testing-based quality control due to complex thread interactions that only manifest after deployment, and under conditions that are difficult to replicate. Given the critical role that concurrent search structures play in today’s software infrastructure, it is therefore highly desirable to verify their correctness using formal methods, preferably in an automated fashion.
+<br>
+In this talk, I will present a framework for obtaining linearizability proofs for concurrent search structures that are modular, reusable, and amenable to automation. The framework takes advantage of recent advances in local reasoning techniques based on concurrent separation logic. I will provide an overview of these techniques and discuss there use for verifying both lock-based and lock-free concurrent search structures such as concurrent (skip)lists, hash structures, binary search trees, B trees, and log-structured merge trees.
+</p>
