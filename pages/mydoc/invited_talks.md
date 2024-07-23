@@ -38,7 +38,17 @@ We also consider today's <I>parallel speedup jobs</I>, which can run on any numb
 <p align="justify">
 <b>Bio:</b> Dr. Arie Gurfinkel is a Professor in the Department of Electrical and Computer Engineering with a cross-appointment at the Cheriton School of Computer Science at the University of Waterloo. His research tackles the growing challenge of ensuring the correct operation of complex computer systems as they become smaller, faster, and more integrated into our daily lives. His research focuses on developing methods for automated program analysis, Software Model Checking, automated reasoning, and abstract interpretation to facilitate the development, testing, and verification of these systems. </p>
 
+**Title:** Constrained Horn Clauses for Program Verification and Synthesis
 
+<p align="justify">
+<b>Abstract:</b>
+First Order Logic (FOL) is a powerful formalism that naturally captures many interesting decision and optimization problems. In recent years,
+there has been a tremendous progress in automated logic reasoning tools, such as Boolean SATisfiability Solvers and Satisfiability Modulo Theory solvers. This enabled the use of logic and logic solvers as a universal solution to many problems in Computer Science, in general, and in Program Analysis, in particular. Most new program analysis techniques formalize the desired analysis task in a fragment of FOL, and delegate the analysis to a SAT or an SMT solver.<br>
+In this talk, we focus on a fragment of FOL called Constrained Horn Clauses (CHC) and the CHC solver SPACER. CHCs arise in many applications of automated verification. They naturally capture such problems as discovery and verification of inductive invariants; Model Checking of safety properties of finite- and infinite-state systems; safety verification of push-down systems (and their extensions); modular verification of distributed and parameterized systems; type inference, and many others.<br>
+Using CHC separates the process of developing a proof methodology (also known as generation of Verification Condition (VC)) from the algorithmic details of deciding whether the VC is correct. Such a flexible design simplifies supporting multiple proof methodologies, multiple languages, and multiple verification tasks with a single framework, without sacrificing performance and scalability.<br>
+Bio: Dr. Arie Gurfinkel is a Professor in the Department of Electrical and Computer Engineering at the University of Waterloo. His research is in the areas of Program Analysis, Model Checking, and Automated Reasoning. His research group has led the implementation of award-winning program analysis framework SeaHorn, and award-winning solver for Constrained Horn Clauses, SPACER.
+
+</p>
 # Dr. Azalea Raad
 [Azalea Raad](https://profiles.imperial.ac.uk/azalea.raad){:target="_blank"}
 
