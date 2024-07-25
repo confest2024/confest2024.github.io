@@ -18,7 +18,7 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 
 ### Attention   
 
-<b align="justify">Please note that hotel rooms should be booked by August 8 to take advantage of the discounted rates.</b>
+<b align="justify">Please note that hotel rooms should be booked by **August 8** to take advantage of the discounted rates.</b>
 <br>
 <br>
 
@@ -26,7 +26,6 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 * Diwakar Krishnamurthy, University of Calgary, Canada (General co-chair)
 * Yasaman Amannejad, Mount Royal University, Canada (General co-chair)
 * Khosro Salmani, Mount Royal University, Canada (Registration chair)
-* Mariam Elhussein, Mount Royal University, Canada (Publication chair)
 * Alan Fedoruk, Mount Royal University, Canada (Local Arrangement chair)
 * Steve Drew, University of Calgary, Canada (Workshop co-chair)
 * Joydeep Mukherjee, California Polytechnic State University, United States (Workshop co-chair)
