@@ -60,7 +60,7 @@ Bio: Dr. Arie Gurfinkel is a Professor in the Department of Electrical and Compu
 [Thomas Wies](https://cs.nyu.edu/~wies/){:target="_blank"}
 
 <p align="justify">
-<b>Bio:</b> Dr. Thomas Wies is an Associate Professor in the NYU Computer Science Department and a member of the Analysis of Computer Systems Group in the Courant Institute. His research focuses on program analysis and verification, automated deduction, concurrent software, and software productivity.</p>
+<b>Bio:</b> Dr. Thomas Wies is a Professor of Computer Science in the Courant Institute of Mathematical Sciences at New York University. He is recipient of an NSF CAREER Award, an OOPSLA 2014 Best Paper Award, and an ISSRE 2019 Distinguished Paper Award. His research interests are in Programming Languages and Formal Methods with a focus on verification, static analysis, and automated reasoning.</p>
 
 **Title:** Verifying Concurrent Search Structures
 
