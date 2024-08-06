@@ -42,11 +42,11 @@ The registration options are as follows:
 A few notes about the registration:
 
 <p align="justify">
-- At least one of the authors of an accepted paper must register using “Regular” registration and present the paper at the conference. A “Student” registration won’t be counted towards the paper even if the author is a student.
+- At least one of the authors of an accepted paper must register using “Regular” registration and present the paper at the conference. A “Student” registration won’t be counted towards the paper even if the author is a student. Papers not registered will not be included in the final proceedings
 </p>
 <p align="justify">
 - Paper registration fee cannot be shared across multiple papers, i.e., each paper must have its own “Regular” registration. If you are an author on multiple papers and you intend to present them all, please use different email ids to create the requisite registrations.
 </p>
 <p align="justify">
-- Registration fees are non-refundable.
+- Registration fees are non-refundable. However, author registrations can be transferred from one author to another to cover unexpected events such as visa delays.
 </p>
