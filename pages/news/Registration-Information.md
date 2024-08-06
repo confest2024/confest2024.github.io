@@ -39,7 +39,7 @@ The registration options are as follows:
 </tbody>
 </table>
 
-A few notes about the registration:
+### A few notes about the registration:
 
 <p align="justify">
 - At least one of the authors of an accepted paper must register using “Regular” registration and present the paper at the conference. A “Student” registration won’t be counted towards the paper even if the author is a student. Papers not registered will not be included in the final proceedings
