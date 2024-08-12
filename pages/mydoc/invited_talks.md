@@ -55,6 +55,10 @@ Bio: Dr. Arie Gurfinkel is a Professor in the Department of Electrical and Compu
 <p align="justify">
 <b>Bio:</b> Dr. Azalea Raad is a Senior Lecturer in the Department of Computing at Imperial College London. As of October 2021,She is a UKRI Future Leader Fellow. Between September 2020 and July 2022 she was a consulting research scientist at Facebook, London. As of September 2022, she is a research consultant at Bloomberg. Her research is in the area of programming languages and verification, spanning several topics including non-volatile memory, persistency semantics, weak memory models, stateless model checking and program logics.</p>
 
+**Title:** Principles of Persistent Programming
+
+<p align="justify">
+<b>Abstract:</b> Persistent programming is the art of developing programs that operate on persistent (non-volatile) states that survive program termination, be it planned or abrupt (e.g. due to a power failure). Persistent programming poses several important challenges: 1) persistent systems have complex—and often unspecified—semantics in that operations do not generally persist in their execution order; 2) software bugs in persistent settings can lead to permanent data corruption; and 3) traditional testing techniques are inapplicable in persistent settings. Can formal methods come to the rescue? </p>
 
 # Dr. Thomas Wies
 [Thomas Wies](https://cs.nyu.edu/~wies/){:target="_blank"}
