@@ -18,7 +18,7 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 
 ### Attention   
 
-<b align="justify">Please note that hotel rooms should be booked by **August 8** to take advantage of the discounted rates.</b>
+<b align="justify">Please note that hotel rooms should be booked by **August 14** to take advantage of the discounted rates.</b>
 <br>
 <br>
 

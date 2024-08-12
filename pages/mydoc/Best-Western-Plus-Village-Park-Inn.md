@@ -10,7 +10,7 @@ folder: mydoc
 ### Attention   
 
 <div style="text-align: justify; background-color: yellow;">
-  <b>*** Please note that hotel rooms should be booked by <u>August 8</u> to take advantage of the discounted rates. ***</b>
+  <b>*** Please note that hotel rooms should be booked by <u>August 14</u> to take advantage of the discounted rates. ***</b>
 </div>
 <br>
 <div style="text-align: justify; background-color: yellow;">
