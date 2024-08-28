@@ -48,7 +48,7 @@ Banff is a beautiful mountain town in the heart of Banff National Park. There is
 - Bow Falls [Bow Falls](https://www.travelalberta.com/listings/bow-falls-23787){:target="_blank"}
 - Cave and Basin National Historic Site [Cave and Basin](https://parks.canada.ca/lhn-nhs/ab/caveandbasin){:target="_blank"}
 
-### Getting to Banff from Calgary**
+### Getting to Banff from Calgary
 A cost-effective option to get to Banff is using the [OnIt regional transit](https://www.onitregionaltransit.ca/){:target="_blank"}
 
 ### Beyond Lake Louise

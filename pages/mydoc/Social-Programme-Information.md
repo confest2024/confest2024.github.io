@@ -1,7 +1,7 @@
 ---
 title: "Social Programme Information"
 sidebar: mydoc_sidebar
-permalink: Social-Program-Information.html
+permalink: Social-Programme-Information.html
 toc: false 
 folder: mydoc
 ---
