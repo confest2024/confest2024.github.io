@@ -115,6 +115,14 @@ entries:
     - title: Getting Around
       url: /Getting-Around.html
       output: web
+  
+  - title: Social Programme
+    output: web
+    folderitems:
+
+    - title: Social Programme Information
+      url: /Social-Programme-Information.html
+      output: web
 
   - title: Registration
     output: web

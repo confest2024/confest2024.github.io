@@ -5,6 +5,8 @@ permalink: CONCUR_programme.html
 toc: false 
 folder: mydoc
 ---
+### CONCUR 2024 sessions will be held in the Foothills ballroom
+<br>
 
 <style>
     .responsive-table {
