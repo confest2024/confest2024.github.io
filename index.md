@@ -38,6 +38,7 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
     {% include image.html file="Horizontal_Schulich_School_of_Engineering_Logo.png" max-width="200" %}
     {% include image.html file="MRU_Faculty of Science and Technology_CMYK.jpg" max-width="300" %}
     {% include image.html file="logo-light-background.svg" max-width="200" %}
+    {% include image.html file="AI-LOGO-HORIZONTAL_COLOUR-300x39.jpg" max-width="200" %}
 </div>
 
 <style>
