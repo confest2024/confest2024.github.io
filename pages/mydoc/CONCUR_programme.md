@@ -282,7 +282,8 @@ folder: mydoc
             <td>
                 1. Effect Semantics for Quantum Process Calculi (L. Ceragioli et al.)<br>
                 2. Branching Bisimilarity for Processes with Time-outs (G. Reghem et al.)<br>
-                3. Around Classical and Intuitionistic Linear Processes (J. Jaramillo et al.)
+                3. Around Classical and Intuitionistic Linear Processes (J. Jaramillo et al.)<br>
+                4. Passive Learning of Regular Data Languages in Polynomial Time and Data (M Balachander et al.)
             </td>
         </tr>
         <tr>
