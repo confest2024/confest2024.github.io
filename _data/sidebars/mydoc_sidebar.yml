@@ -40,7 +40,7 @@ entries:
     - title: Awards
       url: /CONCUR_awards.html
       output: web
-
+      
   - title: QEST/FORMATS
     output: web
     folderitems:
@@ -132,7 +132,13 @@ entries:
       url: /Registration-Information.html
       output: web
     
+  - title: Proceedings
+    output: web
+    folderitems:
 
+    - title: CONUR Proceedings
+      url: /CONCUR_Proceedings.html
+      output: web
 
 
   #  - title: YR-CONCUR Workshop

@@ -247,12 +247,7 @@ folder: mydoc
         </tr>
         <tr>
             <td>15:30-17:00</td>
-            <td>Test of Time and Business Meeting</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>17:00-18:00</td>
-            <td>Photo Shooting Session</td>
+            <td> Test of Time and Business Meeting & Group Photo</td>
             <td></td>
         </tr>
         <tr>
