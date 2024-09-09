@@ -136,7 +136,7 @@ entries:
     output: web
     folderitems:
 
-    - title: CONUR Proceedings
+    - title: CONCUR Proceedings
       url: /CONCUR_Proceedings.html
       output: web
 
