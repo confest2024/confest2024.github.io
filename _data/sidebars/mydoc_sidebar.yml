@@ -40,6 +40,10 @@ entries:
     - title: Awards
       url: /CONCUR_awards.html
       output: web
+
+    - title: Memorial Recording
+      url: /CONCUR_Memorial_Recording.html
+      output: web
       
   - title: QEST/FORMATS
     output: web

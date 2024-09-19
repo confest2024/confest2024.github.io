@@ -22,6 +22,13 @@ The 2024 event will happen Sep 9 - 13 at Best Western Plus Village Park Inn.
 <br>
 <br>
 
+### Video of the Conference
+
+<div style="text-align:center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uVfPuT4BUGo" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
 ### Organizing Committee
 * Diwakar Krishnamurthy, University of Calgary, Canada (General co-chair)
 * Yasaman Amannejad, Mount Royal University, Canada (General co-chair)

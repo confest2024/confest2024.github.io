@@ -57,6 +57,3 @@ data structures and micro-kernels/hypervisors.
 
 We congratulate Brookes and O'Hearn for this lasting contribution to the scientific community!
 
-
-### Interview with the winners
-TBD

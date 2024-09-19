@@ -38,6 +38,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/CONCUR_Memorial_Recording.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/CONCUR_accepted_papers.html</loc>
   </url>
   
